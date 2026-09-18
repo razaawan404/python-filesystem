@@ -1,0 +1,45 @@
+192.168.1.10
+Connection from 10.0.0.25 accepted
+Failed login from 172.16.0.100
+User connected from 8.8.8.8
+Invalid address: 192.168.1.999
+Server started on 127.0.0.1
+Client IP = 256.1.1.1
+Request received from 203.0.113.45
+No IP address available
+10.10.10.10:8080
+192.168.1
+172.16.300.5
+Remote host: 45.67.89.123
+ERROR: connection from 192.168.1.abc
+DNS resolved to 1.1.1.1
+Blocked IP: 192.168.0.256
+User-Agent: Mozilla/5.0
+10.0.0.1 connected successfully
+IP lookup failed for 999.999.999.999
+Backup server: 172.20.10.15
+Attack detected from 192.168.100.200
+localhost
+0.0.0.0
+255.255.255.255
+192.168.01.01
+172.16.1.01
+Address: 1.2.3.4.5
+Host 192.168.50.50 is unreachable
+Invalid: 123.456.78.90
+10.20.30.40
+10.20.30
+10.20.30.40.50
+Client connected from 172.31.255.254
+ERROR from IP 300.20.10.5
+No connection from 192.168.x.10
+Gateway: 192.168.1.1
+Suspicious request: 45.33.32.156
+IP=abc.def.ghi.jkl
+127.0.0.1 refused connection
+Server IP: 192.168.1.100
+Failed attempt from 10.0.0.999
+8.8.4.4
+Connection closed
+Remote IP: 172.18.5.25
+192.168.1.1/24

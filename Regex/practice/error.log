@@ -1,0 +1,43 @@
+2026-09-16 08:12:43 ERROR Failed login for user=ali@example.com from 192.168.1.23
+ERROR Connection refused from 192.168.1.45
+2026-09-16 08:13:02 WARN Multiple failed login attempts for user=sara@example.com
+DEBUG Checking session ID=abc123
+2026-09-16 08:14:17 INFO User=sara@example.com successfully logged in
+WARN Disk usage above 85% on /dev/sda1
+[2026-09-16 08:15:31] ERROR Database connection failed host=db01.internal
+DEBUG Processing request path=/api/users
+2026-09-16 08:16:45 ERROR Permission denied path=/var/log/auth.log
+INFO File uploaded user=hamza@example.com file=report.pdf
+2026-09-16 08:17:22 DEBUG Checking cache key=user_1042
+WARN Suspicious request from 10.0.0.45
+2026-09-16 08:18:39 INFO Request completed status=200
+ERROR Authentication token expired user=ali@example.com
+2026-09-16 08:19:44 DEBUG Parsing request headers
+2026-09-16 08:20:11 INFO User=zain@example.com changed profile
+WARN High memory usage process=nginx
+2026-09-16 08:21:56 ERROR Failed API request status=500 path=/api/orders
+DEBUG Connecting to redis://localhost:6379
+2026-09-16 08:22:31 INFO Backup completed successfully
+ERROR File not found path=/var/www/config.php
+2026-09-16 08:23:47 WARN Too many requests from 172.16.0.8
+DEBUG Session validation started ID=xyz789
+2026-09-16 08:24:03 INFO Logout successful user=sara@example.com
+[2026-09-16 08:25:19] ERROR Connection timeout to 10.0.0.12:3306
+DEBUG Loading configuration file
+2026-09-16 08:26:42 WARN Certificate expires in 5 days
+INFO New user registered user=ayesha@example.com
+2026-09-16 08:27:55 ERROR Invalid credentials for user=admin@example.com
+DEBUG Request method=POST path=/api/login
+WARN Unauthorized access attempt from 192.168.1.77
+2026-09-16 08:29:14 INFO Service restarted successfully
+ERROR Unable to write log file path=/var/log/app.log
+2026-09-16 08:30:26 DEBUG Checking database status
+2026-09-16 08:31:48 WARN CPU usage above 90%
+INFO Password reset requested user=hamza@example.com
+2026-09-16 08:32:19 ERROR Server returned status=503
+DEBUG Cache entry expired key=session_123
+2026-09-16 08:33:41 INFO Health check passed
+WARN Invalid request format from 10.0.0.91
+2026-09-16 08:34:07 ERROR Failed to parse configuration file
+DEBUG Closing database connection
+2026-09-16 08:35:22 INFO User=ali@example.com logged out

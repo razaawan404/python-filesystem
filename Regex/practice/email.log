@@ -1,0 +1,25 @@
+2026-09-16 09:14:22 INFO  Login attempt from 192.168.1.10 user=ali.khan@example.com status=SUCCESS
+2026-09-16 09:15:03 INFO  Session created id=8f31a2 ip=10.0.0.5 email=sara.ahmed@example.com
+2026-09-16 09:17:41 WARN  Failed login user=john.smith@example.com ip=172.16.0.20 attempts=2
+2026-09-16 09:18:09 INFO  Password reset requested for maria.jones@example.com
+2026-09-16 09:21:55 INFO  Upload completed user=hamza.ali@example.com file=report.pdf size=184KB
+2026-09-16 09:24:17 ERROR Authentication failed email=david.brown@example.com source=192.168.2.30
+2026-09-16 09:25:44 INFO  API request /profile user=fatima.khan@example.com status=200
+2026-09-16 09:28:12 INFO  Login successful user=alex.wilson@example.com ip=10.0.0.8
+2026-09-16 09:31:06 DEBUG token issued email=usman.raza@example.com token=7c91f2a8
+2026-09-16 09:33:48 INFO  Logout user=emma.davis@example.com session=91ab22
+2026-09-16 09:35:20 WARN  Failed login user=ali.khan@example.com ip=192.168.1.10
+2026-09-16 09:37:52 INFO  Password changed account=sara.ahmed@example.com source=10.0.0.5
+2026-09-16 09:40:11 INFO  Download user=zain.malik@example.com file=data.csv
+2026-09-16 09:42:39 ERROR Database timeout user=noor.hassan@example.com request_id=aa921
+2026-09-16 09:45:02 INFO  Login successful user=ahmed.shah@example.com ip=172.16.1.10
+2026-09-16 09:47:26 INFO  Profile updated email=layla.morgan@example.com field=phone
+2026-09-16 09:49:57 DEBUG Request received from 192.168.3.40 email=omar.farooq@example.com method=POST
+2026-09-16 09:52:13 WARN  Invalid token user=hira.naqvi@example.com
+2026-09-16 09:54:45 INFO  Login successful email=daniel.clark@example.com ip=10.0.0.12
+2026-09-16 09:57:31 INFO  Account verification completed user=aisha.rehman@example.com
+2026-09-16 10:01:08 ERROR Permission denied email=bilal.sheikh@example.com resource=/admin
+2026-09-16 10:03:22 INFO  Login successful user=sophia.taylor@example.com ip=192.168.1.50
+2026-09-16 10:05:49 INFO  Session refreshed email=john.smith@example.com session=73bd91
+2026-09-16 10:08:14 WARN  Multiple requests detected user=maria.jones@example.com count=15
+2026-09-16 10:11:37 INFO  Logout user=david.brown@example.com ip=172.16.0.25
